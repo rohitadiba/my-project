@@ -1,0 +1,138 @@
+.logo{
+    color: rgb(88, 88, 201);
+    font-size: 40px;
+}
+.but{
+    height: 30px;
+    width: 110px;
+    border-radius: 5px;
+    background-color: rgb(69, 69, 223);
+    color: white;
+    border-style: none;
+    margin-top: 40px;
+}
+.parta{
+    display:flex;
+    justify-content: space-between;
+}
+.partaa{
+    text-align: center;
+    
+}
+.partb{
+    margin: 110px;
+}
+img{
+    height: 300px;
+    width: 350px;
+    border-radius: 25px;
+}
+.partc{
+    display: flex;
+    justify-content: space-between;
+    margin:110px;
+}
+    
+.partf{
+    text-align: center;
+    background-color: rgb(194, 218, 218);
+    margin: 110px;
+    border-radius: 20px;
+    
+    
+    
+}
+.parte{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    
+    
+}
+
+ .logoa{
+        font-size: 80px;
+        font-weight: bold;
+        font-family: Arial, Helvetica, sans-serif;
+        color: rgb(55, 55, 212);
+       }
+        .hr{
+        text-decoration: none;
+        justify-content: center;
+        padding: 20px;
+        color: rgb(161, 151, 151);
+
+        
+       }
+       .partg{
+        justify-items: center;
+        
+       }
+       .ready{
+        width: 450px;
+        color: gray;
+       }
+       .parth{
+        display: flex;
+        justify-content:center;
+        gap: 300px;
+        margin: 110px;
+       }
+       .let{
+        font-size: 60px;
+       }
+       .star{
+        height: 20px;
+        width: 20px;
+       }
+       .stara{
+        border: 2px solid black;
+        background-color: rgb(197, 197, 155);
+        width: 200px;
+        border-radius: 10px;
+        border-style: none;
+       }
+       .z{
+        display: flex;
+        justify-content: center;
+        gap: 200px;
+       }
+       .za{
+        display: flex;
+        justify-content: center;
+        margin-bottom: 40px;
+       }
+      .parti{
+        margin: 110px;
+      }
+      .starb{
+        height: 200px;
+        width: 400px;
+      
+      }
+      .ab{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        
+      }
+      .butt{
+        width: 150px;
+        height: 40px;
+        border-radius: 10px;
+        background-color: rgb(79, 79, 233);
+        border-style: none;
+      }
+      .st{
+        width: 450px;
+        height: 250px;
+      }
+      .jh{
+        display: flex;
+        justify-content: center;
+        margin-top: 20px;
+      }
+.bo{
+    background-color: rgb(224, 208, 188);
+    margin: 50px;
+}
